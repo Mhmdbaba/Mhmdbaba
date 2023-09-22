@@ -1,9 +1,8 @@
-## Hi there, I'm Mohammad Elbaba
+## Hi there
 <br>
-:closed_book: I am a senior at The Lebanese American University studying compuer science
+:closed_book: I am a computer scientist
 <br>
-:nerd_face: I'm Currently a student in my last semester
+:nerd_face: I'm Currently an employee
 <br>
-:computer: I'm interested in mobile developing, web developing and networking.
+:computer: I'm interested in mobile development, web development and networking.
 <br>
-:email: To contact me: mhmdbaba2001@gmail.com
